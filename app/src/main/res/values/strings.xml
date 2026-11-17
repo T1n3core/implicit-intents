@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Implicit Intents</string>
+    <string name="input_url">https://developer.android.com</string>
+    <string name="open_website_button">OPEN WEBSITE</string>
+    <string name="input_location">School Centre Nova Gorica</string>
+    <string name="open_location_button">OPEN LOCATION</string>
+    <string name="input_share_text">Na ŠCNG razvijamo znanje za prihodnost.</string>
+    <string name="share_text_button">SHARE THIS TEXT</string>
+    <string name="share_text_title">Share this text with</string>
+</resources>
